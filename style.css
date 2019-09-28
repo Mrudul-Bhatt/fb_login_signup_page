@@ -1,0 +1,238 @@
+body{
+    background-color: aliceblue;
+}
+
+#block1{
+    background-color: darkblue;
+    margin: 1px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    padding: 1px 0px 0px 0px;
+}
+#heading{
+
+    color: whitesmoke;
+    font-size: 40px;
+    font-weight: bolder;
+    position: relative;
+    left: 300px;
+    font-family: 'Lexend Giga', sans-serif;
+    /*font-family: 'Anton', sans-serif;*/
+
+}
+#heading{
+    animation-duration: 3s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+
+
+#block2{
+    position: relative;
+    left: 300px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+#relogin{
+    font-size: 50px;
+    font-weight: 2000;
+}
+#relogin{
+    animation-duration: 3s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+
+#clpic{
+    font-size: 30px;
+    font-weight: 1500;
+}
+#clpic{
+    animation-duration: 3.5s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+#image{
+    border-radius: 50%;
+}
+#image2{
+    height: 214px;
+    width: 214px;
+    border-radius: 50%;
+}
+#name{
+    position: relative;
+    left: 35px;
+    bottom: 20px;
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+}
+#name2{
+    position: relative;
+    left: 135px;
+    bottom: 20px;
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+}
+#block4{
+    position: relative;
+    bottom: 1200px;
+    left: 61%;
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
+#block3{
+    position: relative;
+    bottom: 440px;
+    left: 61%; 
+    font-family: 'Merriweather Sans', sans-serif;
+ 
+}
+#cacc1{
+    font-weight: 2000;
+    font-size: 40px;
+}
+#cacc1{
+    animation-duration: 3s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+#cacc2{
+    font-weight: bold;
+    font-size: 20px;
+}
+#cacc2{
+    animation-duration: 3.5s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+#fn{
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 1px;
+}
+#sn{
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+    margin: 1px;
+}
+#mobilemail{
+    height: 40px;
+    width: 507px;
+    border-radius: 10px;
+    margin: 1px;
+}
+#newpass{
+    height: 40px;
+    width: 507px;
+    border-radius: 10px;
+    line-height: 10px;
+}
+#bday{
+    font-weight: bolder;
+    color: rgba(0,0,0,0.5);
+    font-size: 25px;
+}
+#date{
+    border-radius: 10px;
+    height: 40px; 
+    width: 250px;
+    line-height: 10px;
+}
+#gen{
+    font-weight: bolder;
+    color: rgba(0,0,0,0.5);
+    font-size: 25px;
+}
+#signup{
+    height: 50px;
+    width: 200px;
+    border-radius: 10px;
+    background-color:lightgreen; 
+}
+#signup2{
+    position: relative;
+    bottom: 25px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+#gyan{
+    position: relative;
+    bottom: 70px;
+    right: 620px;
+
+}
+#gyan{
+    animation-duration: 4s;
+    animation-name: slidein;
+  }
+  
+  @keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%; 
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+  7
